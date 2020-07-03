@@ -1,0 +1,11 @@
+C:\Users\sergi\source\repos\App23\bin\Debug\netcoreapp3.1\App23.exe
+C:\Users\sergi\source\repos\App23\bin\Debug\netcoreapp3.1\App23.deps.json
+C:\Users\sergi\source\repos\App23\bin\Debug\netcoreapp3.1\App23.runtimeconfig.json
+C:\Users\sergi\source\repos\App23\bin\Debug\netcoreapp3.1\App23.runtimeconfig.dev.json
+C:\Users\sergi\source\repos\App23\bin\Debug\netcoreapp3.1\App23.dll
+C:\Users\sergi\source\repos\App23\bin\Debug\netcoreapp3.1\App23.pdb
+C:\Users\sergi\source\repos\App23\obj\Debug\netcoreapp3.1\App23.csprojAssemblyReference.cache
+C:\Users\sergi\source\repos\App23\obj\Debug\netcoreapp3.1\App23.AssemblyInfoInputs.cache
+C:\Users\sergi\source\repos\App23\obj\Debug\netcoreapp3.1\App23.AssemblyInfo.cs
+C:\Users\sergi\source\repos\App23\obj\Debug\netcoreapp3.1\App23.dll
+C:\Users\sergi\source\repos\App23\obj\Debug\netcoreapp3.1\App23.pdb
